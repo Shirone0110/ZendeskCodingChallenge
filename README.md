@@ -1,6 +1,8 @@
 # ZendeskCodingChallenge
 Zendesk Coding Challenge 2021
+
 Instructions: 
+
 0. Clone the repository and move your working directory to the correct file.
 1. Run the program by typing "python viewTickets.py" in terminal.
 2. When prompted for Zendesk subdomain, enter your subdomain name WITHOUT .zendesk.com
